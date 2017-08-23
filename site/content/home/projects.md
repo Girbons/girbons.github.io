@@ -19,6 +19,9 @@ view = 1
 
 +++
 
-- [mercury-parserpy](https://github.com/Girbons/mercury-parserpy)
 - [battlefield1-sdk](https://github.com/Girbons/battlefield1-sdk)
-
+- [comics-scraper](https://github.com/Girbons/comics-scraper)
+- [kickstarter-scraper](https://github.com/Girbons/kickstarter-scraper)
+- [mercury-parserpy](https://github.com/Girbons/mercury-parserpy)
+- [rls-sdk](https://github.com/Girbons/rls-sdk)
+- [xrp-monitor](https://github.com/Girbons/xrp-monitor)

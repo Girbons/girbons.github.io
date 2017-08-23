@@ -12,10 +12,9 @@ weight = 1
 
 # About me
 
-I’m a young developer who’s learning how to code in the best way, and at the same time learning through my own mistakes. I’m an ICT expert but i’m studying at university to become a computer scientist.
+I hate Bio
 
 Languages:
 
 - __python__
 - __go (beginner)__
-- __javascript ES6 (beginner)__

@@ -12,7 +12,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Alessandro De Angelis"
-  role = "Python and Django Developer"
+  role = "Software Developer"
   organization = "Evonove"
   organization_url = "https://evonove.it"
   gravatar = false
