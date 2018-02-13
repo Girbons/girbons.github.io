@@ -40,19 +40,9 @@ defaultContentLanguageInSubdir = false
     link = "//linkedin.com/in/girbons"
 
   [[params.social]]
-    icon = "instagram"
+    icon = "twitter"
     icon_pack = "fa"
-    link = "//instagram.com/alinodea"
-
-  [[params.social]]
-    icon = "steam"
-    icon_pack = "fa"
-    link = "//steamcommunity.com/id/girbons"
-
-  [[params.social]]
-    icon = "bicycle"
-    icon_pack = "fa"
-    link = "//strava.com/athletes/10717225"
+    link = "//twitter.com/Girbonss"
 
 # Navigation Links
 [[menu.main]]
