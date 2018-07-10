@@ -5,8 +5,6 @@ theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 
-googleAnalytics = "UA-101643580-1"
-
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
