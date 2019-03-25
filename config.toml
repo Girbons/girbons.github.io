@@ -1,0 +1,67 @@
+baseURL = "/"
+title = "Alessandro De Angelis"
+theme = "hello-friend-ng"
+
+[author]
+  name = "Alessandro De Angelis"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = ""
+  keywords = ""
+  images = [""]
+
+  homeSubtitle = "Software Developer"
+
+  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  customCSS = []
+  customJS  = []
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+  [params.logo]
+    logoText     = "$ cd /home/"
+    logoHomeLink = "/"
+
+  # Social icons
+  [[params.social]]
+    name = "email"
+    url  = "mailto:alessandrodea22@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/girbons"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/girbons"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "https://instagram.com/alinodea"
+
+
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "projects/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
