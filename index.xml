@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alessandro De Angelis</title>
+    <link>https://girbons.github.io/</link>
+    <description>Recent content on Alessandro De Angelis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Mar 2019 14:48:06 +0100</lastBuildDate>
+    
+	<atom:link href="https://girbons.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>https://girbons.github.io/posts/</link>
+      <pubDate>Mon, 25 Mar 2019 14:48:06 +0100</pubDate>
+      
+      <guid>https://girbons.github.io/posts/</guid>
+      <description>Blog empty for now.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://girbons.github.io/about/</link>
+      <pubDate>Mon, 25 Mar 2019 11:14:55 +0100</pubDate>
+      
+      <guid>https://girbons.github.io/about/</guid>
+      <description>I&amp;rsquo;m really bad at writing bio,
+Software Developer and Computer Science student, Python and a bit of Go.</description>
+    </item>
+    
+  </channel>
+</rss>
